@@ -1,0 +1,13 @@
+C:\Users\erbson.lavras\Documents\Developer\C#\Designer\Padrao\Padrao\obj\Debug\netcoreapp3.1\Padrao.AssemblyInfoInputs.cache
+C:\Users\erbson.lavras\Documents\Developer\C#\Designer\Padrao\Padrao\obj\Debug\netcoreapp3.1\Padrao.AssemblyInfo.cs
+C:\Users\erbson.lavras\Documents\Developer\C#\Designer\Padrao\Padrao\obj\Debug\netcoreapp3.1\Padrao.csproj.CoreCompileInputs.cache
+C:\Users\erbson.lavras\Documents\Developer\C#\Designer\Padrao\Padrao\obj\Debug\netcoreapp3.1\Padrao.csprojAssemblyReference.cache
+C:\Users\erbson.lavras\Documents\Developer\C#\Designer\Padrao\Padrao\bin\Debug\netcoreapp3.1\Padrao.exe
+C:\Users\erbson.lavras\Documents\Developer\C#\Designer\Padrao\Padrao\bin\Debug\netcoreapp3.1\Padrao.deps.json
+C:\Users\erbson.lavras\Documents\Developer\C#\Designer\Padrao\Padrao\bin\Debug\netcoreapp3.1\Padrao.runtimeconfig.json
+C:\Users\erbson.lavras\Documents\Developer\C#\Designer\Padrao\Padrao\bin\Debug\netcoreapp3.1\Padrao.runtimeconfig.dev.json
+C:\Users\erbson.lavras\Documents\Developer\C#\Designer\Padrao\Padrao\bin\Debug\netcoreapp3.1\Padrao.dll
+C:\Users\erbson.lavras\Documents\Developer\C#\Designer\Padrao\Padrao\bin\Debug\netcoreapp3.1\Padrao.pdb
+C:\Users\erbson.lavras\Documents\Developer\C#\Designer\Padrao\Padrao\obj\Debug\netcoreapp3.1\Padrao.dll
+C:\Users\erbson.lavras\Documents\Developer\C#\Designer\Padrao\Padrao\obj\Debug\netcoreapp3.1\Padrao.pdb
+C:\Users\erbson.lavras\Documents\Developer\C#\Designer\Padrao\Padrao\obj\Debug\netcoreapp3.1\Padrao.genruntimeconfig.cache
